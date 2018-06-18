@@ -10,8 +10,8 @@ Nintendo Switchの音声出力と，PCやスマートフォンなどの（ボイ
 ![Diagram](https://raw.githubusercontent.com/YDKK/IkaMixer/master/figure/circuit_diagram.png)
 
 # Parts List
-|No.|秋月コード|Name|Price|Num|
-|-|-|-|-|-|
+|No.|秋月コード|Name|　Price　|Num|
+|-|-|-|-:|-|
 |IC1|I-01628|電圧ｺﾝﾊﾞｰﾀ LTC1144CN8　※オペアンプ負電源用|400円|1|
 |IC2|I-00068|2回路入HiFiｵﾍﾟｱﾝﾌﾟ NJM2114DD|100円|1|
 ||P-00035|丸ﾋﾟﾝICｿｹｯﾄ (8P)<br>※必要であれば|15円|2|
